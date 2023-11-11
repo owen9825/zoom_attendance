@@ -1,2 +1,5 @@
 # Credentials for the app (in the Zoom marketplace)
 *.env
+
+# Local debugging
+pyzoom
