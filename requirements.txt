@@ -1,0 +1,3 @@
+pyzoom>=1.0.4,<2.0.0  # https://github.com/licht1stein/pyzoom. MIT License.
+pre-commit>=3.5.0,<4.0,0
+pylint>=3.0.2,<4.0.0
