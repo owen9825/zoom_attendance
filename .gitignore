@@ -1,3 +1,2 @@
-# Credentials for the Underground app (in the Zoom marketplace)
-underground.env
-
+# Credentials for the app (in the Zoom marketplace)
+*.env
